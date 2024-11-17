@@ -1,0 +1,21 @@
+.Post{
+    background-color: rgba(255, 255, 255, 0.85);
+    color: rgb(0, 0, 0);
+    margin-left: 10px;
+    border-radius: 5px;
+    margin-right: 1opx;
+}
+.favoriteButton{
+    cursor: pointer;
+}
+.deleteForeverButton{
+    cursor: pointer;
+}
+.blog_container{
+  
+        width: 98vw;
+        height: 77vh;
+        overflow-y: scroll;
+        border: 1px solid #ccc;
+        padding: 10px;
+}
